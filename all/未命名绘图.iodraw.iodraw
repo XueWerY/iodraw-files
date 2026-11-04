@@ -17,7 +17,7 @@
           <mxGeometry x="180" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jsjFcctXWCDNaXwmLfv9-7" value="个体评价" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="170" width="60" height="20" as="geometry" />
+          <mxGeometry x="410" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jsjFcctXWCDNaXwmLfv9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jsjFcctXWCDNaXwmLfv9-22" target="jsjFcctXWCDNaXwmLfv9-24">
           <mxGeometry relative="1" as="geometry" />
