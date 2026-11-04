@@ -37,7 +37,7 @@
         <mxCell id="jsjFcctXWCDNaXwmLfv9-3" value="初始化种群 P(t)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jsjFcctXWCDNaXwmLfv9-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jsjFcctXWCDNaXwmLfv9-5" value="计算每个个体适应度" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
