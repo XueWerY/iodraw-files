@@ -54,7 +54,7 @@
         <mxCell id="c48t0BEW-J8Md0mpSnQD-14" value="接受判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c48t0BEW-J8Md0mpSnQD-15" value="局部搜索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="c48t0BEW-J8Md0mpSnQD-15" value="接受新解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c48t0BEW-J8Md0mpSnQD-17" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
