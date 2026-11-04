@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="确定编码方式与参数（种群规模、交叉率、变异率和局部搜索参数）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="40" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jsjFcctXWCDNaXwmLfv9-3" value="初始化种群 P(t)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jsjFcctXWCDNaXwmLfv9-5" value="计算每个个体适应度" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
