@@ -43,11 +43,14 @@
         <mxCell id="hiT9Qq9Q1Vyx2W8YG5kJ-8" value="迭代求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="460" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hiT9Qq9Q1Vyx2W8YG5kJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hiT9Qq9Q1Vyx2W8YG5kJ-10" target="hiT9Qq9Q1Vyx2W8YG5kJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hiT9Qq9Q1Vyx2W8YG5kJ-10" value="校核验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hiT9Qq9Q1Vyx2W8YG5kJ-12" value="明确优化对象与目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="170" width="80" height="40" as="geometry" />
+        <mxCell id="hiT9Qq9Q1Vyx2W8YG5kJ-12" value="得到最优方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
